@@ -1,0 +1,37 @@
+2023-06-11 15:06:524 INFO  ManageBrowser :29 - launching chrome browser
+2023-06-11 15:06:865 INFO  HomePage :34 - verifying homepage url.
+2023-06-11 15:06:248 INFO  HomePage :48 - hover mouse to menu bar.
+2023-06-11 15:06:549 INFO  HomePage :48 - hover mouse to menu bar.
+2023-06-11 15:06:163 INFO  ManageBrowser :29 - launching chrome browser
+2023-06-11 15:06:938 INFO  ManageBrowser :29 - launching chrome browser
+2023-06-11 15:06:379 INFO  ManageBrowser :29 - launching chrome browser
+2023-06-11 15:06:660 INFO  ManageBrowser :29 - launching chrome browser
+2023-06-11 16:06:919 INFO  ManageBrowser :29 - launching chrome browser
+2023-06-11 16:06:706 INFO  ManageBrowser :29 - launching chrome browser
+2023-06-11 16:06:423 INFO  HomePage :34 - verifying homepage url.
+2023-06-11 16:06:217 INFO  HomePage :49 - hover mouse to menu bar.
+2023-06-11 16:06:559 INFO  HomePage :49 - hover mouse to menu bar.
+2023-06-11 16:06:65 INFO  ManageBrowser :29 - launching chrome browser
+2023-06-11 16:06:714 INFO  HomePage :34 - verifying homepage url.
+2023-06-11 16:06:589 INFO  HomePage :48 - hover mouse to menu bar.
+2023-06-11 16:06:719 INFO  ManageBrowser :29 - launching chrome browser
+2023-06-11 16:06:583 INFO  HomePage :37 - verifying homepage url.
+2023-06-11 16:06:195 INFO  AllGamesPage :45 - verifying All Games url: 'https://www.virgingames.com/uk/all-games'
+2023-06-11 16:06:803 INFO  ManageBrowser :29 - launching chrome browser
+2023-06-11 16:06:379 INFO  HomePage :37 - verifying homepage url.
+2023-06-11 16:06:876 INFO  AllGamesPage :45 - verifying All Games url: 'https://www.virgingames.com/uk/all-games'
+2023-06-11 16:06:328 INFO  ManageBrowser :29 - launching chrome browser
+2023-06-11 16:06:104 INFO  HomePage :37 - verifying homepage url.
+2023-06-11 16:06:333 INFO  AllGamesPage :44 - verifying All Games url: 'https://www.virgingames.com/uk/all-games'
+2023-06-11 16:06:222 INFO  ManageBrowser :29 - launching chrome browser
+2023-06-11 16:06:396 INFO  HomePage :37 - verifying homepage url.
+2023-06-11 16:06:117 INFO  AllGamesPage :47 - verifying All Games url: 'https://www.virgingames.com/uk/all-games'
+2023-06-11 16:06:993 INFO  ManageBrowser :29 - launching chrome browser
+2023-06-11 16:06:454 INFO  HomePage :37 - verifying homepage url.
+2023-06-11 16:06:808 INFO  AllGamesPage :47 - verifying All Games url: 'https://www.virgingames.com/uk/all-games'
+2023-06-11 17:06:504 INFO  ManageBrowser :29 - launching chrome browser
+2023-06-11 17:06:259 INFO  HomePage :37 - verifying homepage url.
+2023-06-11 17:06:197 INFO  AllGamesPage :38 - verifying All Games url: 'https://www.virgingames.com/uk/all-games'
+2023-06-11 17:06:414 INFO  ManageBrowser :29 - launching chrome browser
+2023-06-11 17:06:05 INFO  HomePage :37 - verifying homepage url.
+2023-06-11 17:06:794 INFO  AllGamesPage :38 - verifying All Games url: 'https://www.virgingames.com/uk/all-games'
